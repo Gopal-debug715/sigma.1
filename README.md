@@ -1,2 +1,2 @@
 # sigma.1
-this is about sigma class project
+this is about sigma class project.
